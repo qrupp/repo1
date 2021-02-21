@@ -1,11 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 6CB7-E0B3
-
- Directory of C:\DEVELOPMENT\MyProject
-
-21.02.2021  18:50    <DIR>          .
-21.02.2021  18:50    <DIR>          ..
-14.02.2021  16:40             2ÿ792 index.js
-21.02.2021  18:50                 0 test.txt
-               2 File(s)          2ÿ792 bytes
-               2 Dir(s)  53ÿ544ÿ755ÿ200 bytes free
+Change 1 in this file
